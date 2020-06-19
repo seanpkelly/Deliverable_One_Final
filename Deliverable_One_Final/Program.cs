@@ -45,19 +45,16 @@ namespace Deliverable_One_Final
             catch { }
 
             
-
+            
             Console.WriteLine("You will be travelling to New Orleans", VacationType);
             if (VacationType == "tropical") { Destination = "Beach vacation in Mexico"; };
             Console.WriteLine("You will be experiencing a beach vacation in Mexico", VacationType);
             if (VacationType == "adventurous") { Destination = "Whitewater rafting the Grand Canyon"; };
             Console.WriteLine("You will be travelling to the Grand Canyon to whitewater raft", VacationType);
+          
 
 
-            Console.WriteLine("You will be travelling to New Orleans", VacationType);
-            if (VacationType == "tropical") { Destination = "Beach vacation in Mexico"; };
-            Console.WriteLine("You will be experiencing a beach vacation in Mexico", VacationType);
-            if (VacationType == "adventurous") { Destination = "Whitewater rafting the Grand Canyon"; };
-            Console.WriteLine("You will be travelling to the Grand Canyon to whitewater raft", VacationType);
+          
 
 
            
@@ -79,8 +76,7 @@ namespace Deliverable_One_Final
 
 
 
-        //Console.Write("How many people are in your party? ");
-        //Convert.ToInt32(Console.ReadLine());
+        
 
 
 
