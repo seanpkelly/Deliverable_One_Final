@@ -1,0 +1,13 @@
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\bin\Debug\netcoreapp3.1\Deliverable_One_Final.exe
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\bin\Debug\netcoreapp3.1\Deliverable_One_Final.deps.json
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\bin\Debug\netcoreapp3.1\Deliverable_One_Final.runtimeconfig.json
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\bin\Debug\netcoreapp3.1\Deliverable_One_Final.runtimeconfig.dev.json
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\bin\Debug\netcoreapp3.1\Deliverable_One_Final.dll
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\bin\Debug\netcoreapp3.1\Deliverable_One_Final.pdb
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\obj\Debug\netcoreapp3.1\Deliverable_One_Final.csprojAssemblyReference.cache
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\obj\Debug\netcoreapp3.1\Deliverable_One_Final.AssemblyInfoInputs.cache
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\obj\Debug\netcoreapp3.1\Deliverable_One_Final.AssemblyInfo.cs
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\obj\Debug\netcoreapp3.1\Deliverable_One_Final.csproj.CoreCompileInputs.cache
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\obj\Debug\netcoreapp3.1\Deliverable_One_Final.dll
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\obj\Debug\netcoreapp3.1\Deliverable_One_Final.pdb
+C:\Users\yllek\Desktop\D1F\Deliverable_One_Final\Deliverable_One_Final\obj\Debug\netcoreapp3.1\Deliverable_One_Final.genruntimeconfig.cache
